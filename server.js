@@ -16,7 +16,6 @@ app.use(express.json());
 // Connect routers
 app.use("/api/hello", helloWorldRouter);
 app.use("/api/books", booksRouter);
-app.use("/api/reviews", reviewsRouter); // ✅ Add this line too
 
 
 
