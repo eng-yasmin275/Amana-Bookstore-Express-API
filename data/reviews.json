@@ -109,6 +109,36 @@
       "comment": "Great integration of geophysics with climate science. The plate tectonics chapters are well-written and current.",
       "timestamp": "2024-03-08T11:40:00Z",
       "verified": true
+    },
+    {
+      "id": "review-101",
+      "author": "Yasmin Nassar",
+      "rating": 5,
+      "title": "Wonderful learning resource",
+      "comment": "A fantastic book that explains difficult concepts clearly.",
+      "verified": true,
+      "bookId": "1",
+      "timestamp": "2025-10-05T18:57:46.415Z"
+    },
+    {
+      "id": "review-105",
+      "author": "Kareem Sadeq",
+      "rating": 5,
+      "title": "Wonderful learning resource",
+      "comment": "A fantastic book that explains difficult concepts clearly.",
+      "verified": true,
+      "bookId": "1",
+      "timestamp": "2025-10-05T19:14:29.999Z"
+    },
+    {
+      "id": "review-105",
+      "author": "Kareem Sadeq",
+      "rating": 5,
+      "title": "Wonderful learning resource",
+      "comment": "A fantastic book that explains difficult concepts clearly.",
+      "verified": true,
+      "bookId": "1",
+      "timestamp": "2025-10-05T19:20:49.788Z"
     }
   ]
 }

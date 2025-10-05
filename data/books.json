@@ -77,6 +77,54 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Yasmin Nassar ",
+      "author": "Yasmin Nassar",
+      "description": "Yasmin Nassar.",
+      "price": 79.99,
+      "isbn": "978-0456789012",
+      "genre": [
+        "Engineering"
+      ],
+      "tags": [
+        "Energy",
+        "Science"
+      ],
+      "datePublished": "2025-05-27",
+      "pages": 420,
+      "language": "English",
+      "publisher": "Amana Academic Press",
+      "rating": 4.5,
+      "reviewCount": 10,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Introduction to Thermodynamics",
+      "author": "Dr. Layla Al-Sabuni",
+      "description": "An accessible overview of thermodynamic principles and real-world applications.",
+      "price": 79.99,
+      "isbn": "978-0456789012",
+      "genre": [
+        "Physics",
+        "Engineering"
+      ],
+      "tags": [
+        "Energy",
+        "Heat",
+        "Science"
+      ],
+      "datePublished": "2024-05-22",
+      "pages": 420,
+      "language": "English",
+      "publisher": "Amana Academic Press",
+      "rating": 4.5,
+      "reviewCount": 10,
+      "inStock": true,
+      "featured": false
     }
   ]
 }

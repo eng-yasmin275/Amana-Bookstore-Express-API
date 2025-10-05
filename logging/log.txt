@@ -1,0 +1,17 @@
+[2025-10-05T19:13:29.132Z] [FAIL] API Key: none | Route: /api/books/1/reviews
+[2025-10-05T19:14:29.995Z] [SUCCESS] API Key: amana-secret-2025 | Route: /api/books/1/reviews
+[2025-10-05T19:19:38.930Z] GET /api/hello 200 43 - 4.822 ms
+[2025-10-05T19:19:43.785Z] GET /api/books/2 200 573 - 2.198 ms
+[2025-10-05T19:19:48.172Z] GET /api/books/2 200 573 - 1.256 ms
+[2025-10-05T19:19:52.551Z] GET /api/books/published?start=2022-01-01&end=2023-01-01%0A 200 1137 - 1.564 ms
+[2025-10-05T19:19:56.254Z] GET /api/books/top-rated 200 2143 - 1.404 ms
+[2025-10-05T19:20:01.043Z] GET /api/books/featured 200 1483 - 3.356 ms
+[2025-10-05T19:20:05.778Z] GET /api/books/2/reviews 200 1619 - 3.953 ms
+[2025-10-05T19:20:17.093Z] [FAIL] API Key: none | Route: /api/books
+[2025-10-05T19:20:17.096Z] POST /api/books 403 53 - 49.124 ms
+[2025-10-05T19:20:41.127Z] [FAIL] API Key: none | Route: /api/books/1/reviews
+[2025-10-05T19:20:41.130Z] POST /api/books/1/reviews 403 53 - 2.507 ms
+[2025-10-05T19:20:49.787Z] [SUCCESS] API Key: amana-secret-2025 | Route: /api/books/1/reviews
+[2025-10-05T19:20:49.790Z] POST /api/books/1/reviews 201 288 - 2.807 ms
+[2025-10-05T19:21:32.577Z] [SUCCESS] API Key: amana-secret-2025 | Route: /api/books
+[2025-10-05T19:21:32.592Z] POST /api/books 201 497 - 37.359 ms
